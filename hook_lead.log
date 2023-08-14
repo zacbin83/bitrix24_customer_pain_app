@@ -1,0 +1,1591 @@
+
+------------------------
+2023.01.03 9:03:09
+webform
+Array
+(
+    [DOMAIN] => b24-qbp2rj.bitrix24.vn
+    [PROTOCOL] => 1
+    [LANG] => vn
+    [APP_SID] => f3df3d4adb7454331179eb0aa7fc4b05
+    [first_name] => Nhi
+    [last_name] => Thành
+    [phone] => 0927312633
+    [email] => tiu.stationery@gmail.com
+    [saved] => yes
+)
+
+------------------------
+
+------------------------
+2023.01.03 9:03:10
+webform result
+Array
+(
+    [result] => 24
+    [time] => Array
+        (
+            [start] => 1672732991.556
+            [finish] => 1672732992.1506
+            [duration] => 0.59465384483337
+            [processing] => 0.53176808357239
+            [date_start] => 2023-01-03T11:03:11+03:00
+            [date_finish] => 2023-01-03T11:03:12+03:00
+            [operating_reset_at] => 1672733591
+            [operating] => 0.53175401687622
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.01.03 9:06:17
+webform
+Array
+(
+    [DOMAIN] => b24-qbp2rj.bitrix24.vn
+    [PROTOCOL] => 1
+    [LANG] => vn
+    [APP_SID] => c221aa1010f55cef7078d001ab196792
+    [first_name] => Ronaldo
+    [last_name] => Messi
+    [phone] => 0879845666
+    [email] => ronaldo123@gmail.com
+    [saved] => yes
+)
+
+------------------------
+
+------------------------
+2023.01.03 9:06:18
+webform result
+Array
+(
+    [result] => 26
+    [time] => Array
+        (
+            [start] => 1672733179.2163
+            [finish] => 1672733179.6659
+            [duration] => 0.44955682754517
+            [processing] => 0.42663407325745
+            [date_start] => 2023-01-03T11:06:19+03:00
+            [date_finish] => 2023-01-03T11:06:19+03:00
+            [operating_reset_at] => 1672733591
+            [operating] => 0.53175401687622
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.01.03 10:41:23
+webform
+Array
+(
+    [DOMAIN] => b24-qbp2rj.bitrix24.vn
+    [PROTOCOL] => 1
+    [LANG] => en
+    [APP_SID] => 72889c321eb4adab1051857248602226
+    [first_name] => Tran Nghia
+    [last_name] => Nam
+    [phone] => 0983221233
+    [email] => zacbinlol@gmail.com
+    [saved] => yes
+)
+
+------------------------
+
+------------------------
+2023.01.03 10:41:24
+webform result
+Array
+(
+    [result] => 30
+    [time] => Array
+        (
+            [start] => 1672738885.6009
+            [finish] => 1672738886.1213
+            [duration] => 0.52038979530334
+            [processing] => 0.48774695396423
+            [date_start] => 2023-01-03T12:41:25+03:00
+            [date_finish] => 2023-01-03T12:41:26+03:00
+            [operating_reset_at] => 1672739485
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.01.03 10:50:06
+webform
+Array
+(
+    [DOMAIN] => b24-qbp2rj.bitrix24.vn
+    [PROTOCOL] => 1
+    [LANG] => en
+    [APP_SID] => 9d7bb00e09d5adc4a7631f581afe7067
+    [first_name] => Trí
+    [last_name] => Trần
+    [phone] => +84 0898907433
+    [email] => zacbinlol83@gmail.com
+    [saved] => yes
+)
+
+------------------------
+
+------------------------
+2023.01.03 10:50:07
+webform result
+Array
+(
+    [result] => 32
+    [time] => Array
+        (
+            [start] => 1672739407.9038
+            [finish] => 1672739408.3736
+            [duration] => 0.46982884407043
+            [processing] => 0.44142603874207
+            [date_start] => 2023-01-03T12:50:07+03:00
+            [date_finish] => 2023-01-03T12:50:08+03:00
+            [operating_reset_at] => 1672740007
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.01.03 10:50:57
+webform
+Array
+(
+    [DOMAIN] => b24-qbp2rj.bitrix24.vn
+    [PROTOCOL] => 1
+    [LANG] => en
+    [APP_SID] => 1510ea30795a6bb89b4a3f96afd686fc
+    [first_name] => Hoàng
+    [last_name] => B
+    [phone] => +84 0898907433
+    [email] => tiu.stationery@gmail.com
+    [saved] => yes
+)
+
+------------------------
+
+------------------------
+2023.01.03 10:50:58
+webform result
+Array
+(
+    [result] => 34
+    [time] => Array
+        (
+            [start] => 1672739459.3055
+            [finish] => 1672739459.636
+            [duration] => 0.33057808876038
+            [processing] => 0.3034930229187
+            [date_start] => 2023-01-03T12:50:59+03:00
+            [date_finish] => 2023-01-03T12:50:59+03:00
+            [operating_reset_at] => 1672740059
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.01.03 10:54:32
+webform
+Array
+(
+    [DOMAIN] => b24-qbp2rj.bitrix24.vn
+    [PROTOCOL] => 1
+    [LANG] => en
+    [APP_SID] => 7e8d080082bf0398df5e14e7c7c91057
+    [first_name] => Hoàng
+    [last_name] => B
+    [phone] => +84 0898907433
+    [email] => zacbinlol3@gmail.com
+    [saved] => yes
+)
+
+------------------------
+
+------------------------
+2023.01.03 10:54:32
+webform result
+Array
+(
+    [result] => Array
+        (
+            [0] => Array
+                (
+                    [ID] => 2
+                    [POST] => CEO
+                    [COMMENTS] => 
+                    [HONORIFIC] => HNR_VN_1
+                    [NAME] => Toshihiro
+                    [SECOND_NAME] => Mito
+                    [LAST_NAME] => Mibe
+                    [PHOTO] => Array
+                        (
+                            [id] => 80
+                            [showUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=2&fieldName=PHOTO&dynamic=N&fileId=80
+                            [downloadUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?auth=&ownerId=2&fieldName=PHOTO&dynamic=N&fileId=80
+                        )
+
+                    [LEAD_ID] => 
+                    [TYPE_ID] => SUPPLIER
+                    [SOURCE_ID] => CALL
+                    [SOURCE_DESCRIPTION] => Gọi đến yêu cầu hợp tác.
+                    [COMPANY_ID] => 2
+                    [BIRTHDATE] => 1961-07-01T03:00:00+03:00
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-01T20:52:34+03:00
+                    [DATE_MODIFY] => 2023-01-01T20:52:34+03:00
+                    [ASSIGNED_BY_ID] => 4
+                    [CREATED_BY_ID] => 4
+                    [MODIFY_BY_ID] => 4
+                    [OPENED] => N
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [1] => Array
+                (
+                    [ID] => 4
+                    [POST] => CEO
+                    [COMMENTS] => 
+                    [HONORIFIC] => HNR_VN_1
+                    [NAME] => Quang Hiển
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Đỗ
+                    [PHOTO] => Array
+                        (
+                            [id] => 82
+                            [showUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=4&fieldName=PHOTO&dynamic=N&fileId=82
+                            [downloadUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?auth=&ownerId=4&fieldName=PHOTO&dynamic=N&fileId=82
+                        )
+
+                    [LEAD_ID] => 
+                    [TYPE_ID] => PARTNER
+                    [SOURCE_ID] => CALL
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 4
+                    [BIRTHDATE] => 1963-10-29T03:00:00+03:00
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-01T20:52:37+03:00
+                    [DATE_MODIFY] => 2023-01-02T22:06:23+03:00
+                    [ASSIGNED_BY_ID] => 6
+                    [CREATED_BY_ID] => 4
+                    [MODIFY_BY_ID] => 6
+                    [OPENED] => N
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [2] => Array
+                (
+                    [ID] => 6
+                    [POST] => Chủ tịch HĐQT
+                    [COMMENTS] => 
+                    [HONORIFIC] => HNR_VN_1
+                    [NAME] => Nam Tiến
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Hoàng
+                    [PHOTO] => Array
+                        (
+                            [id] => 84
+                            [showUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=6&fieldName=PHOTO&dynamic=N&fileId=84
+                            [downloadUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?auth=&ownerId=6&fieldName=PHOTO&dynamic=N&fileId=84
+                        )
+
+                    [LEAD_ID] => 
+                    [TYPE_ID] => PARTNER
+                    [SOURCE_ID] => CALL
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 6
+                    [BIRTHDATE] => 1969-06-28T03:00:00+03:00
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-01T20:52:39+03:00
+                    [DATE_MODIFY] => 2023-01-01T20:52:39+03:00
+                    [ASSIGNED_BY_ID] => 4
+                    [CREATED_BY_ID] => 4
+                    [MODIFY_BY_ID] => 4
+                    [OPENED] => N
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [3] => Array
+                (
+                    [ID] => 8
+                    [POST] => Giám đốc
+                    [COMMENTS] => 
+                    [HONORIFIC] => HNR_VN_1
+                    [NAME] => Tiến Dũng
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Đinh
+                    [PHOTO] => Array
+                        (
+                            [id] => 86
+                            [showUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=8&fieldName=PHOTO&dynamic=N&fileId=86
+                            [downloadUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?auth=&ownerId=8&fieldName=PHOTO&dynamic=N&fileId=86
+                        )
+
+                    [LEAD_ID] => 
+                    [TYPE_ID] => PARTNER
+                    [SOURCE_ID] => CALL
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 6
+                    [BIRTHDATE] => 1981-10-05T03:00:00+03:00
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-01T20:52:42+03:00
+                    [DATE_MODIFY] => 2023-01-01T20:52:42+03:00
+                    [ASSIGNED_BY_ID] => 4
+                    [CREATED_BY_ID] => 4
+                    [MODIFY_BY_ID] => 4
+                    [OPENED] => N
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [4] => Array
+                (
+                    [ID] => 12
+                    [POST] => Giám đốc
+                    [COMMENTS] => 
+                    [HONORIFIC] => 
+                    [NAME] => Yasutaka
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Suzuki
+                    [PHOTO] => Array
+                        (
+                            [id] => 90
+                            [showUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=12&fieldName=PHOTO&dynamic=N&fileId=90
+                            [downloadUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?auth=&ownerId=12&fieldName=PHOTO&dynamic=N&fileId=90
+                        )
+
+                    [LEAD_ID] => 
+                    [TYPE_ID] => SUPPLIER
+                    [SOURCE_ID] => CALL
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 8
+                    [BIRTHDATE] => 1966-04-13T03:00:00+03:00
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-01T20:52:48+03:00
+                    [DATE_MODIFY] => 2023-01-01T20:52:48+03:00
+                    [ASSIGNED_BY_ID] => 4
+                    [CREATED_BY_ID] => 4
+                    [MODIFY_BY_ID] => 4
+                    [OPENED] => N
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [5] => Array
+                (
+                    [ID] => 26
+                    [POST] => Chủ tiệm
+                    [COMMENTS] => 
+                    [HONORIFIC] => HNR_VN_1
+                    [NAME] => Hồng Hưng
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Nguyễn 
+                    [PHOTO] => Array
+                        (
+                            [id] => 106
+                            [showUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=26&fieldName=PHOTO&dynamic=N&fileId=106
+                            [downloadUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?auth=&ownerId=26&fieldName=PHOTO&dynamic=N&fileId=106
+                        )
+
+                    [LEAD_ID] => 
+                    [TYPE_ID] => PARTNER
+                    [SOURCE_ID] => CALL
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 10
+                    [BIRTHDATE] => 1973-03-08T03:00:00+03:00
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-02T06:32:22+03:00
+                    [DATE_MODIFY] => 2023-01-02T22:25:28+03:00
+                    [ASSIGNED_BY_ID] => 6
+                    [CREATED_BY_ID] => 4
+                    [MODIFY_BY_ID] => 6
+                    [OPENED] => Y
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [6] => Array
+                (
+                    [ID] => 10
+                    [POST] => Sinh viên
+                    [COMMENTS] => 
+                    [HONORIFIC] => HNR_VN_1
+                    [NAME] => Nhật Phi
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Hồ
+                    [PHOTO] => Array
+                        (
+                            [id] => 88
+                            [showUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=10&fieldName=PHOTO&dynamic=N&fileId=88
+                            [downloadUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?auth=&ownerId=10&fieldName=PHOTO&dynamic=N&fileId=88
+                        )
+
+                    [LEAD_ID] => 
+                    [TYPE_ID] => CLIENT
+                    [SOURCE_ID] => CALL
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 
+                    [BIRTHDATE] => 2002-08-24T03:00:00+04:00
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-01T20:52:45+03:00
+                    [DATE_MODIFY] => 2023-01-01T20:52:45+03:00
+                    [ASSIGNED_BY_ID] => 4
+                    [CREATED_BY_ID] => 4
+                    [MODIFY_BY_ID] => 4
+                    [OPENED] => N
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [7] => Array
+                (
+                    [ID] => 14
+                    [POST] => 
+                    [COMMENTS] => 
+                    [HONORIFIC] => HNR_VN_2
+                    [NAME] => Nguyễn Bảo Trâm
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Phạm
+                    [PHOTO] => Array
+                        (
+                            [id] => 92
+                            [showUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=14&fieldName=PHOTO&dynamic=N&fileId=92
+                            [downloadUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?auth=&ownerId=14&fieldName=PHOTO&dynamic=N&fileId=92
+                        )
+
+                    [LEAD_ID] => 
+                    [TYPE_ID] => CLIENT
+                    [SOURCE_ID] => CALL
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 
+                    [BIRTHDATE] => 1998-06-09T03:00:00+04:00
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-01T20:52:50+03:00
+                    [DATE_MODIFY] => 2023-01-01T20:52:50+03:00
+                    [ASSIGNED_BY_ID] => 4
+                    [CREATED_BY_ID] => 4
+                    [MODIFY_BY_ID] => 4
+                    [OPENED] => N
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [8] => Array
+                (
+                    [ID] => 18
+                    [POST] => 
+                    [COMMENTS] => 
+                    [HONORIFIC] => HNR_VN_2
+                    [NAME] => Thị Trà My
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Nguyễn
+                    [PHOTO] => Array
+                        (
+                            [id] => 96
+                            [showUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=18&fieldName=PHOTO&dynamic=N&fileId=96
+                            [downloadUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?auth=&ownerId=18&fieldName=PHOTO&dynamic=N&fileId=96
+                        )
+
+                    [LEAD_ID] => 
+                    [TYPE_ID] => CLIENT
+                    [SOURCE_ID] => CALL
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 
+                    [BIRTHDATE] => 2002-03-26T03:00:00+03:00
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-01T20:52:55+03:00
+                    [DATE_MODIFY] => 2023-01-01T20:52:55+03:00
+                    [ASSIGNED_BY_ID] => 4
+                    [CREATED_BY_ID] => 4
+                    [MODIFY_BY_ID] => 4
+                    [OPENED] => N
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [9] => Array
+                (
+                    [ID] => 20
+                    [POST] => Nhân viên văn phòng
+                    [COMMENTS] => 
+                    [HONORIFIC] => HNR_VN_2
+                    [NAME] => Huyền
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Nguyễn
+                    [PHOTO] => Array
+                        (
+                            [id] => 98
+                            [showUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=20&fieldName=PHOTO&dynamic=N&fileId=98
+                            [downloadUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?auth=&ownerId=20&fieldName=PHOTO&dynamic=N&fileId=98
+                        )
+
+                    [LEAD_ID] => 
+                    [TYPE_ID] => CLIENT
+                    [SOURCE_ID] => PARTNER
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 
+                    [BIRTHDATE] => 2000-12-12T03:00:00+03:00
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-01T20:52:55+03:00
+                    [DATE_MODIFY] => 2023-01-01T20:55:52+03:00
+                    [ASSIGNED_BY_ID] => 4
+                    [CREATED_BY_ID] => 4
+                    [MODIFY_BY_ID] => 4
+                    [OPENED] => N
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [10] => Array
+                (
+                    [ID] => 22
+                    [POST] => 
+                    [COMMENTS] => 
+                    [HONORIFIC] => HNR_VN_1
+                    [NAME] => Minh Đức
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Trần
+                    [PHOTO] => Array
+                        (
+                            [id] => 102
+                            [showUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=22&fieldName=PHOTO&dynamic=N&fileId=102
+                            [downloadUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?auth=&ownerId=22&fieldName=PHOTO&dynamic=N&fileId=102
+                        )
+
+                    [LEAD_ID] => 
+                    [TYPE_ID] => CLIENT
+                    [SOURCE_ID] => CALL
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 
+                    [BIRTHDATE] => 1964-01-15T03:00:00+03:00
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-02T06:17:50+03:00
+                    [DATE_MODIFY] => 2023-01-02T06:17:50+03:00
+                    [ASSIGNED_BY_ID] => 4
+                    [CREATED_BY_ID] => 4
+                    [MODIFY_BY_ID] => 4
+                    [OPENED] => Y
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [11] => Array
+                (
+                    [ID] => 24
+                    [POST] => Nhân viên giao hàng
+                    [COMMENTS] => 
+                    [HONORIFIC] => HNR_VN_1
+                    [NAME] => Tuấn Ngọc
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Phạm
+                    [PHOTO] => Array
+                        (
+                            [id] => 104
+                            [showUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=24&fieldName=PHOTO&dynamic=N&fileId=104
+                            [downloadUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?auth=&ownerId=24&fieldName=PHOTO&dynamic=N&fileId=104
+                        )
+
+                    [LEAD_ID] => 
+                    [TYPE_ID] => CLIENT
+                    [SOURCE_ID] => CALL
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 
+                    [BIRTHDATE] => 1970-10-16T03:00:00+03:00
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-02T06:24:33+03:00
+                    [DATE_MODIFY] => 2023-01-02T06:43:36+03:00
+                    [ASSIGNED_BY_ID] => 4
+                    [CREATED_BY_ID] => 4
+                    [MODIFY_BY_ID] => 4
+                    [OPENED] => Y
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [12] => Array
+                (
+                    [ID] => 28
+                    [POST] => Giáo viên
+                    [COMMENTS] => 
+                    [HONORIFIC] => HNR_VN_2
+                    [NAME] => Thị Mai
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Trần
+                    [PHOTO] => Array
+                        (
+                            [id] => 108
+                            [showUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=28&fieldName=PHOTO&dynamic=N&fileId=108
+                            [downloadUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?auth=&ownerId=28&fieldName=PHOTO&dynamic=N&fileId=108
+                        )
+
+                    [LEAD_ID] => 
+                    [TYPE_ID] => CLIENT
+                    [SOURCE_ID] => CALL
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 
+                    [BIRTHDATE] => 1967-10-27T03:00:00+03:00
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-02T06:42:07+03:00
+                    [DATE_MODIFY] => 2023-01-02T06:42:07+03:00
+                    [ASSIGNED_BY_ID] => 4
+                    [CREATED_BY_ID] => 4
+                    [MODIFY_BY_ID] => 4
+                    [OPENED] => Y
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [13] => Array
+                (
+                    [ID] => 30
+                    [POST] => Nhân viên văn phòng
+                    [COMMENTS] => 
+                    [HONORIFIC] => HNR_VN_2
+                    [NAME] => Như Ý
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Trương
+                    [PHOTO] => Array
+                        (
+                            [id] => 110
+                            [showUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=30&fieldName=PHOTO&dynamic=N&fileId=110
+                            [downloadUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?auth=&ownerId=30&fieldName=PHOTO&dynamic=N&fileId=110
+                        )
+
+                    [LEAD_ID] => 
+                    [TYPE_ID] => CLIENT
+                    [SOURCE_ID] => CALL
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 
+                    [BIRTHDATE] => 1994-06-23T03:00:00+04:00
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-02T06:57:59+03:00
+                    [DATE_MODIFY] => 2023-01-02T06:57:59+03:00
+                    [ASSIGNED_BY_ID] => 4
+                    [CREATED_BY_ID] => 4
+                    [MODIFY_BY_ID] => 4
+                    [OPENED] => Y
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [14] => Array
+                (
+                    [ID] => 32
+                    [POST] => Doanh nhân
+                    [COMMENTS] => 
+                    [HONORIFIC] => HNR_VN_1
+                    [NAME] => Công Thái
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Hoàng
+                    [PHOTO] => Array
+                        (
+                            [id] => 112
+                            [showUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=32&fieldName=PHOTO&dynamic=N&fileId=112
+                            [downloadUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?auth=&ownerId=32&fieldName=PHOTO&dynamic=N&fileId=112
+                        )
+
+                    [LEAD_ID] => 
+                    [TYPE_ID] => CLIENT
+                    [SOURCE_ID] => CALL
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 
+                    [BIRTHDATE] => 1972-07-27T03:00:00+03:00
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-02T07:13:24+03:00
+                    [DATE_MODIFY] => 2023-01-02T07:13:24+03:00
+                    [ASSIGNED_BY_ID] => 4
+                    [CREATED_BY_ID] => 4
+                    [MODIFY_BY_ID] => 4
+                    [OPENED] => Y
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [15] => Array
+                (
+                    [ID] => 34
+                    [POST] => Bác sĩ
+                    [COMMENTS] => 
+                    [HONORIFIC] => HNR_VN_2
+                    [NAME] => Thụy An
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Trần
+                    [PHOTO] => Array
+                        (
+                            [id] => 114
+                            [showUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=34&fieldName=PHOTO&dynamic=N&fileId=114
+                            [downloadUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?auth=&ownerId=34&fieldName=PHOTO&dynamic=N&fileId=114
+                        )
+
+                    [LEAD_ID] => 
+                    [TYPE_ID] => CLIENT
+                    [SOURCE_ID] => CALL
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 
+                    [BIRTHDATE] => 1974-01-25T03:00:00+03:00
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-02T07:17:55+03:00
+                    [DATE_MODIFY] => 2023-01-02T07:17:55+03:00
+                    [ASSIGNED_BY_ID] => 4
+                    [CREATED_BY_ID] => 4
+                    [MODIFY_BY_ID] => 4
+                    [OPENED] => Y
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [16] => Array
+                (
+                    [ID] => 36
+                    [POST] => Luật sư
+                    [COMMENTS] => 
+                    [HONORIFIC] => HNR_VN_1
+                    [NAME] => Thành Đạt
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Lê
+                    [PHOTO] => Array
+                        (
+                            [id] => 116
+                            [showUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=36&fieldName=PHOTO&dynamic=N&fileId=116
+                            [downloadUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?auth=&ownerId=36&fieldName=PHOTO&dynamic=N&fileId=116
+                        )
+
+                    [LEAD_ID] => 
+                    [TYPE_ID] => CLIENT
+                    [SOURCE_ID] => CALL
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 
+                    [BIRTHDATE] => 1982-04-21T03:00:00+04:00
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-02T07:22:38+03:00
+                    [DATE_MODIFY] => 2023-01-02T07:22:38+03:00
+                    [ASSIGNED_BY_ID] => 4
+                    [CREATED_BY_ID] => 4
+                    [MODIFY_BY_ID] => 4
+                    [OPENED] => Y
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [17] => Array
+                (
+                    [ID] => 38
+                    [POST] => 
+                    [COMMENTS] => 
+                    [HONORIFIC] => 
+                    [NAME] => Trọng Nghĩa
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Trần
+                    [PHOTO] => 
+                    [LEAD_ID] => 
+                    [TYPE_ID] => 
+                    [SOURCE_ID] => WEBFORM
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 
+                    [BIRTHDATE] => 
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-02T17:45:57+03:00
+                    [DATE_MODIFY] => 2023-01-02T17:45:57+03:00
+                    [ASSIGNED_BY_ID] => 1
+                    [CREATED_BY_ID] => 1
+                    [MODIFY_BY_ID] => 1
+                    [OPENED] => Y
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [18] => Array
+                (
+                    [ID] => 40
+                    [POST] => 
+                    [COMMENTS] => 
+                    [HONORIFIC] => 
+                    [NAME] => Thành
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Phan Công
+                    [PHOTO] => 
+                    [LEAD_ID] => 
+                    [TYPE_ID] => 
+                    [SOURCE_ID] => WEBFORM
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 
+                    [BIRTHDATE] => 
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-02T17:48:12+03:00
+                    [DATE_MODIFY] => 2023-01-03T11:18:49+03:00
+                    [ASSIGNED_BY_ID] => 1
+                    [CREATED_BY_ID] => 1
+                    [MODIFY_BY_ID] => 1
+                    [OPENED] => Y
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [19] => Array
+                (
+                    [ID] => 42
+                    [POST] => CEO 
+                    [COMMENTS] => 
+                    [HONORIFIC] => HNR_VN_3
+                    [NAME] => Kim Loan
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Hoàng
+                    [PHOTO] => Array
+                        (
+                            [id] => 360
+                            [showUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?ownerId=42&fieldName=PHOTO&dynamic=N&fileId=360
+                            [downloadUrl] => /bitrix/components/bitrix/crm.contact.show/show_file.php?auth=&ownerId=42&fieldName=PHOTO&dynamic=N&fileId=360
+                        )
+
+                    [LEAD_ID] => 
+                    [TYPE_ID] => CLIENT
+                    [SOURCE_ID] => CALL
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 
+                    [BIRTHDATE] => 
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-03T09:27:34+03:00
+                    [DATE_MODIFY] => 2023-01-03T09:27:34+03:00
+                    [ASSIGNED_BY_ID] => 10
+                    [CREATED_BY_ID] => 10
+                    [MODIFY_BY_ID] => 10
+                    [OPENED] => Y
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+            [20] => Array
+                (
+                    [ID] => 44
+                    [POST] => 
+                    [COMMENTS] => 
+                    [HONORIFIC] => 
+                    [NAME] => Phan
+                    [SECOND_NAME] => 
+                    [LAST_NAME] => Xích Long
+                    [PHOTO] => 
+                    [LEAD_ID] => 
+                    [TYPE_ID] => 
+                    [SOURCE_ID] => WEBFORM
+                    [SOURCE_DESCRIPTION] => 
+                    [COMPANY_ID] => 
+                    [BIRTHDATE] => 
+                    [EXPORT] => Y
+                    [HAS_PHONE] => Y
+                    [HAS_EMAIL] => Y
+                    [HAS_IMOL] => N
+                    [DATE_CREATE] => 2023-01-03T11:21:12+03:00
+                    [DATE_MODIFY] => 2023-01-03T11:21:12+03:00
+                    [ASSIGNED_BY_ID] => 1
+                    [CREATED_BY_ID] => 1
+                    [MODIFY_BY_ID] => 1
+                    [OPENED] => Y
+                    [ORIGINATOR_ID] => 
+                    [ORIGIN_ID] => 
+                    [ORIGIN_VERSION] => 
+                    [FACE_ID] => 
+                    [ADDRESS] => 
+                    [ADDRESS_2] => 
+                    [ADDRESS_CITY] => 
+                    [ADDRESS_POSTAL_CODE] => 
+                    [ADDRESS_REGION] => 
+                    [ADDRESS_PROVINCE] => 
+                    [ADDRESS_COUNTRY] => 
+                    [ADDRESS_LOC_ADDR_ID] => 
+                    [UTM_SOURCE] => 
+                    [UTM_MEDIUM] => 
+                    [UTM_CAMPAIGN] => 
+                    [UTM_CONTENT] => 
+                    [UTM_TERM] => 
+                )
+
+        )
+
+    [total] => 21
+    [time] => Array
+        (
+            [start] => 1672739673.7643
+            [finish] => 1672739673.8034
+            [duration] => 0.039041996002197
+            [processing] => 0.014741897583008
+            [date_start] => 2023-01-03T12:54:33+03:00
+            [date_finish] => 2023-01-03T12:54:33+03:00
+            [operating_reset_at] => 1672740273
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.01.03 11:01:41
+webform
+Array
+(
+    [DOMAIN] => b24-qbp2rj.bitrix24.vn
+    [PROTOCOL] => 1
+    [LANG] => en
+    [APP_SID] => 38b5820f03f4b3f10ae1f02681c91db0
+    [first_name] => Tran Nghia
+    [last_name] => B
+    [phone] => +84 0898907433
+    [email] => tiu.stationery@gmail.com
+    [saved] => yes
+)
+
+------------------------
+
+------------------------
+2023.01.03 11:02:00
+webform
+Array
+(
+    [DOMAIN] => b24-qbp2rj.bitrix24.vn
+    [PROTOCOL] => 1
+    [LANG] => en
+    [APP_SID] => 38b5820f03f4b3f10ae1f02681c91db0
+    [first_name] => Tran Nghia
+    [last_name] => B
+    [phone] => +84 0898907433
+    [email] => tiu.stationery@gmail.com
+    [saved] => yes
+)
+
+------------------------
+
+------------------------
+2023.01.03 11:02:10
+webform
+Array
+(
+    [DOMAIN] => b24-qbp2rj.bitrix24.vn
+    [PROTOCOL] => 1
+    [LANG] => en
+    [APP_SID] => 254ec0bdd8133e6840a0c585898a41e4
+    [first_name] => Tran Nghia
+    [last_name] => Nam
+    [phone] => +0 (898) 907-433
+    [email] => 
+    [saved] => yes
+)
+
+------------------------
+
+------------------------
+2023.01.03 11:03:35
+webform
+Array
+(
+    [DOMAIN] => b24-qbp2rj.bitrix24.vn
+    [PROTOCOL] => 1
+    [LANG] => en
+    [APP_SID] => 2bca4aff05eb1ad30f4ec2a28f1e853d
+    [first_name] => A
+    [last_name] => B
+    [phone] => 0983221233
+    [email] => 
+    [saved] => yes
+)
+
+------------------------
+
+------------------------
+2023.01.03 11:03:36
+webform result
+Array
+(
+    [result] => 36
+    [time] => Array
+        (
+            [start] => 1672740217.6439
+            [finish] => 1672740217.9245
+            [duration] => 0.28055000305176
+            [processing] => 0.25524997711182
+            [date_start] => 2023-01-03T13:03:37+03:00
+            [date_finish] => 2023-01-03T13:03:37+03:00
+            [operating_reset_at] => 1672740817
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.01.03 11:03:39
+webform
+Array
+(
+    [DOMAIN] => b24-qbp2rj.bitrix24.vn
+    [PROTOCOL] => 1
+    [LANG] => en
+    [APP_SID] => 2bca4aff05eb1ad30f4ec2a28f1e853d
+    [first_name] => A
+    [last_name] => B
+    [phone] => 0983221233
+    [email] => zacbinlol3@gmail.com
+    [saved] => yes
+)
+
+------------------------
+
+------------------------
+2023.01.03 11:03:40
+webform result
+Array
+(
+    [result] => 38
+    [time] => Array
+        (
+            [start] => 1672740221.4232
+            [finish] => 1672740221.7415
+            [duration] => 0.31830406188965
+            [processing] => 0.2926070690155
+            [date_start] => 2023-01-03T13:03:41+03:00
+            [date_finish] => 2023-01-03T13:03:41+03:00
+            [operating_reset_at] => 1672740821
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.01.03 11:03:45
+webform
+Array
+(
+    [DOMAIN] => b24-qbp2rj.bitrix24.vn
+    [PROTOCOL] => 1
+    [LANG] => en
+    [APP_SID] => 2bca4aff05eb1ad30f4ec2a28f1e853d
+    [first_name] => A
+    [last_name] => B
+    [phone] => 0983221233
+    [email] => zacbinlol3@gmail.com
+    [saved] => yes
+)
+
+------------------------
+
+------------------------
+2023.01.03 11:03:46
+webform result
+Array
+(
+    [result] => 40
+    [time] => Array
+        (
+            [start] => 1672740227.2631
+            [finish] => 1672740227.5635
+            [duration] => 0.30036401748657
+            [processing] => 0.272794008255
+            [date_start] => 2023-01-03T13:03:47+03:00
+            [date_finish] => 2023-01-03T13:03:47+03:00
+            [operating_reset_at] => 1672740827
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.01.03 12:00:56
+webform
+Array
+(
+    [DOMAIN] => b24-qbp2rj.bitrix24.vn
+    [PROTOCOL] => 1
+    [LANG] => en
+    [APP_SID] => b6f95d9c0d59b5d3c599a870d6e8a007
+    [first_name] => 
+    [last_name] => Nam
+    [phone] => 0983221233
+    [email] => tiu.stationery@gmail.com
+    [saved] => yes
+)
+
+------------------------
+
+------------------------
+2023.01.03 12:00:58
+webform result
+Array
+(
+    [result] => 42
+    [time] => Array
+        (
+            [start] => 1672743659.026
+            [finish] => 1672743659.5195
+            [duration] => 0.49354910850525
+            [processing] => 0.46624183654785
+            [date_start] => 2023-01-03T14:00:59+03:00
+            [date_finish] => 2023-01-03T14:00:59+03:00
+            [operating_reset_at] => 1672744259
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.01.03 12:12:42
+webform
+Array
+(
+    [DOMAIN] => b24-qbp2rj.bitrix24.vn
+    [PROTOCOL] => 1
+    [LANG] => en
+    [APP_SID] => 53ee3198b4e59c86349533d4abfd7af6
+    [first_name] => Công Thái
+    [last_name] => Nam
+    [phone] => +84 0898907433
+    [email] => zacbinlol83@gmail.com
+    [saved] => yes
+)
+
+------------------------
+
+------------------------
+2023.01.03 12:12:43
+webform result
+Array
+(
+    [result] => 44
+    [time] => Array
+        (
+            [start] => 1672744364.1776
+            [finish] => 1672744364.4735
+            [duration] => 0.29594492912292
+            [processing] => 0.26779103279114
+            [date_start] => 2023-01-03T14:12:44+03:00
+            [date_finish] => 2023-01-03T14:12:44+03:00
+            [operating_reset_at] => 1672744964
+            [operating] => 0
+        )
+
+)
+
+------------------------
+
+------------------------
+2023.01.03 12:49:42
+webform
+Array
+(
+    [DOMAIN] => b24-qbp2rj.bitrix24.vn
+    [PROTOCOL] => 1
+    [LANG] => en
+    [APP_SID] => 201287147565738f11c8838e15bcf7b8
+    [first_name] => 8
+    [last_name] => Nam
+    [phone] => 0983221233
+    [email] => tiu.stationery@gmail.com
+    [saved] => yes
+)
+
+------------------------
+
+------------------------
+2023.01.03 12:49:42
+webform result
+Array
+(
+    [result] => 46
+    [time] => Array
+        (
+            [start] => 1672746583.7125
+            [finish] => 1672746584.132
+            [duration] => 0.41945219039917
+            [processing] => 0.39495205879211
+            [date_start] => 2023-01-03T14:49:43+03:00
+            [date_finish] => 2023-01-03T14:49:44+03:00
+            [operating_reset_at] => 1672747183
+            [operating] => 0
+        )
+
+)
+
+------------------------
